@@ -1,0 +1,3 @@
+# Elements a ignorar en el docker build
+.git
+
